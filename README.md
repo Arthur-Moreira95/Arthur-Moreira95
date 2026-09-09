@@ -28,6 +28,7 @@ Olá! Sou estudante de Engenharia de Software e apaixonado por tecnologia, desen
 ### Projetos em Destaque
 
 **Edihub**
+
 O Edihub centraliza editais, datas e informações dos vestibulares em um só lugar
 
 ---
