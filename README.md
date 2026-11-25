@@ -44,7 +44,6 @@ O Edihub centraliza editais, datas e informações dos vestibulares em um só lu
 
 **LinkedIn:** (https://www.linkedin.com/in/arthur-moreira-500b61398/)  
 **Email:** (arthurmoreirac401@gmail.com)
-**GitHub:** (https://github.com/Arthur-Moreira95)
 
 ---
 
